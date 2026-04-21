@@ -1,16 +1,9 @@
-# flutter_run_tracker_app
+flutter_run_tracker_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="300" src="https://github.com/user-attachments/assets/5e1614fe-66da-448e-9dca-e8461baaad4c" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/6f11f04f-2680-4cf9-bc4b-9e09a8a6bf57" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="300" src="https://github.com/user-attachments/assets/c1a9c920-c54d-4c1a-8b07-82c55035adaf" />
+<br /><br /><br />
+<img width="300" src="https://github.com/user-attachments/assets/5f64ba8e-c458-4274-81fe-c9e814544cbc" />
